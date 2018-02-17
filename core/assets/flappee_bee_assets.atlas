@@ -1,0 +1,62 @@
+
+flappee_bee_assets.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bee
+  rotate: false
+  xy: 698, 784
+  size: 236, 118
+  orig: 236, 118
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 262
+  size: 480, 640
+  orig: 480, 640
+  offset: 0, 0
+  index: -1
+flowerBottom
+  rotate: false
+  xy: 484, 455
+  size: 105, 447
+  orig: 105, 447
+  offset: 0, 0
+  index: -1
+flowerTop
+  rotate: false
+  xy: 591, 455
+  size: 105, 447
+  orig: 105, 447
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 484, 341
+  size: 180, 112
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+playPress
+  rotate: false
+  xy: 2, 2
+  size: 180, 112
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 698, 750
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 116
+  size: 310, 144
+  orig: 310, 144
+  offset: 0, 0
+  index: -1
